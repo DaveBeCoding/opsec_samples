@@ -1,0 +1,3 @@
+0x100003ec4    1     96 main
+0x100003f24    8    128 sym.freq_int__int_
+0x100003fa4    1     12 sym.imp.std::__1::basic_ostream_char__std::__1::char_traits_char___::operator___int_
